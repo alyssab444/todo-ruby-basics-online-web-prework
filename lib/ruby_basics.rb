@@ -10,7 +10,8 @@ def argue(phrase)
 end
 
 def greeting (greeting, name)
-  puts, "Hi there, "
+  greeting= "Hi there"
+  name= "Bobby"
 end
 
 def return_a_value
